@@ -13,7 +13,7 @@ function App() {
   const action = useNavigationType();
   const location = useLocation();
   const pathname = location.pathname;
-
+  //learnings
   return (
     <Routes>
       <Route path="/login" element={<Login />} />
