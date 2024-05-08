@@ -1,0 +1,64 @@
+.bookTickets {
+  position: absolute;
+  top: 87px;
+  left: 450px;
+}
+.bookTicketsWrapper {
+  position: absolute;
+  top: 34px;
+  left: 77px;
+  background-color: #f2e149;
+  width: 1200px;
+  height: 235px;
+  overflow: hidden;
+}
+.macbookAir1Child {
+  position: absolute;
+  top: 350px;
+  left: 195px;
+  width: 952px;
+  height: 427px;
+}
+.pleaseLogin {
+  position: absolute;
+  top: 480px;
+  left: 564px;
+  font-size: var(--font-size-17xl);
+  font-weight: 300;
+}
+.macbookAir1Inner,
+.macbookAir1Item {
+  position: absolute;
+  top: 623.5px;
+  left: 506px;
+  width: 330px;
+  height: 26.1px;
+  object-fit: contain;
+}
+.macbookAir1Inner {
+  position: absolute;
+  top: 560px;
+  left: 506px;
+  width: 330px;
+  height: 26.1px;
+  object-fit: contain;
+}
+.macbookAir1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 50px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+
+.bottom {
+  position: absolute;
+  top: 700px;
+  left: 50%;
+
+  transform: translateX(-50%);
+}

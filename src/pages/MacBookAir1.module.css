@@ -1,0 +1,148 @@
+.macbookAir2Child,
+.macbookAir2Item {
+  position: absolute;
+  top: 99px;
+  left: 64px;
+  width: 1178.1px;
+  height: 306px;
+}
+.macbookAir2Item {
+  top: 34px;
+  left: 488px;
+  width: 295px;
+  height: 85px;
+}
+.screen {
+  position: absolute;
+  top: 49px;
+  left: 560px;
+  font-weight: 300;
+}
+.macbookAir2Inner {
+  position: absolute;
+  top: 493px;
+  left: 136px;
+  background-color: #d9d9d9;
+  width: 118px;
+  height: 70px;
+}
+.a {
+  position: absolute;
+  top: 506px;
+  left: 183px;
+  font-weight: 300;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 493px;
+  left: 136px;
+  width: 990px;
+  height: 176.5px;
+}
+.b,
+.c {
+  position: absolute;
+  top: 507px;
+  left: 345px;
+  font-weight: 300;
+}
+.c {
+  left: 533px;
+}
+.d {
+  top: 511px;
+  left: 689px;
+}
+.d,
+.e,
+.f,
+.g,
+.i,
+.selectSeats {
+  position: absolute;
+  font-weight: 300;
+}
+.selectSeats {
+  top: 405px;
+  left: 503px;
+  font-size: var(--font-size-11xl);
+}
+.e,
+.f,
+.g,
+.i {
+  top: 507px;
+  left: 886px;
+}
+.f,
+.g,
+.i {
+  top: 511px;
+  left: 1059px;
+}
+.g,
+.i {
+  top: 606px;
+  left: 180px;
+}
+.i {
+  top: 618px;
+  left: 348px;
+  display: inline-block;
+  width: 17px;
+}
+.j {
+  top: 609px;
+  left: 533px;
+}
+.j,
+.k,
+.l,
+.m {
+  position: absolute;
+  font-weight: 300;
+}
+.k {
+  top: 618px;
+  left: 689px;
+  display: inline-block;
+  width: 50px;
+}
+.l,
+.m {
+  top: 606px;
+  left: 886px;
+}
+.m {
+  top: 609px;
+  left: 1054px;
+}
+.macbookAir2Child1 {
+  position: absolute;
+  top: 727.8px;
+  left: 861.3px;
+  width: 239.4px;
+  height: 73.1px;
+  object-fit: contain;
+}
+.select {
+  position: absolute;
+  top: 743px;
+  left: 926px;
+  font-size: var(--font-size-11xl);
+  font-weight: 300;
+  display: inline-block;
+  width: 133px;
+  height: 42px;
+}
+.macbookAir2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
